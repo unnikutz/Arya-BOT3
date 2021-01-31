@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
-  "version": "1.2.2",
-  "description": "Customizable WhatsApp Bot",
+  "name": "WhatsAlexa",
+  "version": "3.0.0",
+  "description": "Whatsapp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
